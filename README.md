@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Gajardo</h1>
 <h3 align="center">An aspiring frontend developer from Miami, FL</h3>
-<img align="right" alt="this-is-fine" width:"150" src="https://c.tenor.com/fKIG2kiLVPgAAAAC/this-is-fine-its-fine.gif">
+<p>&nbsp;</p>
+<img align="right" alt="this-is-fine" width:"20" height:"150" src="https://c.tenor.com/fKIG2kiLVPgAAAAC/this-is-fine-its-fine.gif">
 
 - 🔭 I’m currently working on **an ecommerce site**
 
