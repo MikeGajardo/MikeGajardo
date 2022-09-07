@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michael Gajardo</h1>
-<h3 align="center">An aspiring frontend developer from Miami</h3>
+<h3 align="center">An aspiring frontend developer from Miami, FL</h3>
+<img align="right" alt="this-is-fine" width:"150" src="https://c.tenor.com/fKIG2kiLVPgAAAAC/this-is-fine-its-fine.gif">
+
+- 🔭 I’m currently working on **an ecommerce site**
+
+- 🌱 I’m currently learning **MongoDB, Express JS, React JS, Node JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
