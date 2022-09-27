@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Gajardo</h1>
 <h3 align="center">An aspiring frontend developer from Miami, FL</h3>
 <p>&nbsp;</p>
-<img align="right" alt="this-is-fine" width="300" src="https://c.tenor.com/u0klUzowm-0AAAAC/this-is-fine-fire.gif" >
+<img align="right" alt="this-is-fine" width="300" src="https://images.credly.com/size/340x340/images/69503279-0ecb-4620-8705-a757ac742798/FullStack_Badge_MDC.png" >
 
 - 🔭 I’m currently working on **an ecommerce site**
 
