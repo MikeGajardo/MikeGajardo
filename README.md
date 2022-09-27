@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Gajardo</h1>
 <h3 align="center">An aspiring frontend developer from Miami, FL</h3>
 <p>&nbsp;</p>
-<img align="right" alt="this-is-fine" width="300" src="https://images.credly.com/size/340x340/images/69503279-0ecb-4620-8705-a757ac742798/FullStack_Badge_MDC.png" >
+<a href="https://www.credly.com/badges/d82b8ba7-f196-4724-a0e5-f863170dcbd7/linked_in_profile" target="_blank"><img align="right" alt="mdc full-stack badge" width="300" src="https://images.credly.com/size/340x340/images/69503279-0ecb-4620-8705-a757ac742798/FullStack_Badge_MDC.png" ></a>
 
 - 🔭 I’m currently working on **an ecommerce site**
 
